@@ -16,7 +16,7 @@ import java.util.List;
 
 public class SQLiteClass extends SQLiteOpenHelper {
 
-    private static final int VERSION = 1;
+    private static final int VERSION = 2;
     private static final String NAME = "toDoListDatabase";
     private static final String Lista = "todo";
     private static final String ID = "id";
