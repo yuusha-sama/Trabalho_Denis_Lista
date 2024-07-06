@@ -20,7 +20,7 @@
             android:layout_centerHorizontal="true"
             android:paddingStart="8dp"
             android:buttonTint="@android:color/holo_green_dark"
-            tools:text="Go to the market and bring vegetables immediately today."/>
+            tools:text="Funciona."/>
 
     </RelativeLayout>
 
